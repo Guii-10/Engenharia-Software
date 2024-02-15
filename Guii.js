@@ -1,1 +1,3 @@
-console.log("Testando David 2")
+nome = prompt("Qual seu nome?")
+
+alert(`Hello world ${nome}`)
